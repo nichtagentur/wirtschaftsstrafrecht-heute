@@ -2,3 +2,5 @@
 [runner] launching topic #0 -> logs/article-0-135943.log
 [runner] topic #0 exit=1 at Wed May  6 02:01:39 PM UTC 2026
 [runner] launching topic #1 -> logs/article-1-140443.log
+[runner] topic #1 exit=0 at Wed May  6 02:06:11 PM UTC 2026
+[runner] launching topic #2 -> logs/article-2-140943.log
