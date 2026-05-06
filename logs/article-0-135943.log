@@ -2,3 +2,50 @@
 [13:59:43] generating article body...
 [13:59:53] generating image...
 [14:00:07] wrote /home/student/Projects/wirtschaftsstrafrecht-heute/articles/geldwaesche-fmgwg-2026.html
+[14:00:09] pushed
+[14:00:09] waiting for Pages...
+[14:01:36] live
+[42773:42795:0506/140136.202028:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Address does not contain a colon
+[42773:42795:0506/140136.211369:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Address does not contain a colon
+[42773:42773:0506/140136.217497:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Address does not contain a colon
+[42773:42795:0506/140136.244683:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Address does not contain a colon
+[42773:42795:0506/140136.274480:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Address does not contain a colon
+[42773:42773:0506/140136.314164:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[42773:42773:0506/140136.314332:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[42773:42773:0506/140136.315161:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[42773:42795:0506/140136.315650:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Address does not contain a colon
+[42773:42773:0506/140136.337235:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[42773:42795:0506/140136.337738:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Address does not contain a colon
+[42773:42773:0506/140136.354104:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[42773:42773:0506/140136.361311:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[42773:42795:0506/140136.361500:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Address does not contain a colon
+[42773:42773:0506/140136.367799:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[42773:42795:0506/140136.367939:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Address does not contain a colon
+[42773:42773:0506/140136.372029:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[42773:42795:0506/140136.376268:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Address does not contain a colon
+[42773:42773:0506/140136.394475:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+608861 bytes written to file /home/student/Projects/wirtschaftsstrafrecht-heute/screens/auto-geldwaesche-fmgwg-2026.png
+HTTP 403 on https://simplemessage.franzai.com/api/messages: error code: 1010
+Traceback (most recent call last):
+  File "/home/student/Projects/wirtschaftsstrafrecht-heute/auto/article.py", line 335, in <module>
+    r = http("https://simplemessage.franzai.com/api/messages", method="POST", body=body,
+             headers={"Authorization": f"Bearer {SM_KEY}", "Content-Type":"application/json"})
+  File "/home/student/Projects/wirtschaftsstrafrecht-heute/auto/article.py", line 24, in http
+    return urllib.request.urlopen(req, timeout=timeout)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/linuxbrew/.linuxbrew/Cellar/python@3.14/3.14.4_1/lib/python3.14/urllib/request.py", line 187, in urlopen
+    return opener.open(url, data, timeout)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/home/linuxbrew/.linuxbrew/Cellar/python@3.14/3.14.4_1/lib/python3.14/urllib/request.py", line 493, in open
+    response = meth(req, response)
+  File "/home/linuxbrew/.linuxbrew/Cellar/python@3.14/3.14.4_1/lib/python3.14/urllib/request.py", line 602, in http_response
+    response = self.parent.error(
+        'http', request, response, code, msg, hdrs)
+  File "/home/linuxbrew/.linuxbrew/Cellar/python@3.14/3.14.4_1/lib/python3.14/urllib/request.py", line 531, in error
+    return self._call_chain(*args)
+           ~~~~~~~~~~~~~~~~^^^^^^^
+  File "/home/linuxbrew/.linuxbrew/Cellar/python@3.14/3.14.4_1/lib/python3.14/urllib/request.py", line 464, in _call_chain
+    result = func(*args)
+  File "/home/linuxbrew/.linuxbrew/Cellar/python@3.14/3.14.4_1/lib/python3.14/urllib/request.py", line 611, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 403: Forbidden

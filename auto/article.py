@@ -18,8 +18,11 @@ t = TOPICS[idx]
 slug = t["slug"]
 print(f"[{time.strftime('%H:%M:%S')}] === topic #{idx} {slug} ===", flush=True)
 
+UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"
 def http(url, *, method="GET", body=None, headers=None, timeout=180):
-    req = urllib.request.Request(url, data=body, method=method, headers=headers or {})
+    h = {"User-Agent": UA}
+    if headers: h.update(headers)
+    req = urllib.request.Request(url, data=body, method=method, headers=h)
     try:
         return urllib.request.urlopen(req, timeout=timeout)
     except urllib.error.HTTPError as e:

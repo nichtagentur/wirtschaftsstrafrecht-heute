@@ -1,2 +1,4 @@
 [runner] started PID=42655 at Wed May  6 01:59:43 PM UTC 2026
 [runner] launching topic #0 -> logs/article-0-135943.log
+[runner] topic #0 exit=1 at Wed May  6 02:01:39 PM UTC 2026
+[runner] launching topic #1 -> logs/article-1-140443.log
