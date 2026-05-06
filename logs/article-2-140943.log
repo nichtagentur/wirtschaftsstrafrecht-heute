@@ -2,3 +2,28 @@
 [14:09:43] generating article body...
 [14:09:51] generating image...
 [14:10:05] wrote /home/student/Projects/wirtschaftsstrafrecht-heute/articles/korruption-304-stgb-vergabe-2026.html
+[14:10:06] pushed
+[14:10:06] waiting for Pages...
+[14:11:02] live
+[43336:43357:0506/141102.538753:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Address does not contain a colon
+[43336:43357:0506/141102.549521:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Address does not contain a colon
+[43336:43336:0506/141102.552382:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Address does not contain a colon
+[43336:43357:0506/141102.575088:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Address does not contain a colon
+[43336:43357:0506/141102.584442:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Address does not contain a colon
+[43336:43336:0506/141102.621078:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[43336:43336:0506/141102.621272:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[43336:43357:0506/141102.621465:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Address does not contain a colon
+[43336:43336:0506/141102.622376:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[43336:43336:0506/141102.630280:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[43336:43357:0506/141102.630784:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Address does not contain a colon
+[43336:43336:0506/141102.631838:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[43336:43336:0506/141102.642601:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[43336:43357:0506/141102.642659:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Address does not contain a colon
+[43336:43336:0506/141102.648862:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[43336:43357:0506/141102.648944:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Address does not contain a colon
+[43336:43336:0506/141102.650659:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[43336:43357:0506/141102.650706:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Address does not contain a colon
+[43336:43336:0506/141102.651586:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+427612 bytes written to file /home/student/Projects/wirtschaftsstrafrecht-heute/screens/auto-korruption-304-stgb-vergabe-2026.png
+[14:11:05] simplemessage: 5a33fed7-d5d9-43d0-a172-5fd56282e6a5
+[14:11:05] done #2 korruption-304-stgb-vergabe-2026
