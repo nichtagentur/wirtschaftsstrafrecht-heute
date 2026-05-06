@@ -2,3 +2,28 @@
 [14:19:43] generating article body...
 [14:19:54] generating image...
 [14:20:09] wrote /home/student/Projects/wirtschaftsstrafrecht-heute/articles/schwarzarbeit-153c-stgb-2026.html
+[14:20:10] pushed
+[14:20:10] waiting for Pages...
+[14:21:12] live
+[45385:45406:0506/142112.748444:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Address does not contain a colon
+[45385:45406:0506/142112.757426:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Address does not contain a colon
+[45385:45385:0506/142112.761238:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Address does not contain a colon
+[45385:45406:0506/142112.790414:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Address does not contain a colon
+[45385:45406:0506/142112.802763:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Address does not contain a colon
+[45385:45385:0506/142112.834322:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[45385:45406:0506/142112.834380:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Address does not contain a colon
+[45385:45385:0506/142112.834490:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[45385:45385:0506/142112.835329:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[45385:45385:0506/142112.842262:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[45385:45406:0506/142112.842414:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Address does not contain a colon
+[45385:45385:0506/142112.846102:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[45385:45385:0506/142112.865436:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[45385:45406:0506/142112.865528:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Address does not contain a colon
+[45385:45385:0506/142112.871376:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[45385:45406:0506/142112.871454:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Address does not contain a colon
+[45385:45385:0506/142112.877552:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[45385:45406:0506/142112.877697:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Address does not contain a colon
+[45385:45385:0506/142112.881503:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+707252 bytes written to file /home/student/Projects/wirtschaftsstrafrecht-heute/screens/auto-schwarzarbeit-153c-stgb-2026.png
+[14:21:16] simplemessage: 6d81a726-182e-4450-8229-b5eb84ee399b
+[14:21:16] done #4 schwarzarbeit-153c-stgb-2026
